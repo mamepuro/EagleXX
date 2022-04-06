@@ -1,32 +1,31 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\endo\\source\\repos\\EagleXX\\EagleXX\\EagleXX.csproj": {}
+    "C:\\Users\\ayata\\OneDrive - 筑波大学\\ドキュメント\\Develop\\EagleXX\\EagleXX\\EagleXX\\EagleXX.csproj": {}
   },
   "projects": {
-    "C:\\Users\\endo\\source\\repos\\EagleXX\\EagleXX\\EagleXX.csproj": {
+    "C:\\Users\\ayata\\OneDrive - 筑波大学\\ドキュメント\\Develop\\EagleXX\\EagleXX\\EagleXX\\EagleXX.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\endo\\source\\repos\\EagleXX\\EagleXX\\EagleXX.csproj",
+        "projectUniqueName": "C:\\Users\\ayata\\OneDrive - 筑波大学\\ドキュメント\\Develop\\EagleXX\\EagleXX\\EagleXX\\EagleXX.csproj",
         "projectName": "EagleXX",
-        "projectPath": "C:\\Users\\endo\\source\\repos\\EagleXX\\EagleXX\\EagleXX.csproj",
-        "packagesPath": "C:\\Users\\endo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\endo\\source\\repos\\EagleXX\\EagleXX\\obj\\",
+        "projectPath": "C:\\Users\\ayata\\OneDrive - 筑波大学\\ドキュメント\\Develop\\EagleXX\\EagleXX\\EagleXX\\EagleXX.csproj",
+        "packagesPath": "C:\\Users\\ayata\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ayata\\OneDrive - 筑波大学\\ドキュメント\\Develop\\EagleXX\\EagleXX\\EagleXX\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\endo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ayata\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net6.0-windows7.0"
+          "net5.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net6.0-windows7.0": {
-            "targetAlias": "net6.0-windows",
+          "net50": {
             "projectReferences": {}
           }
         },
@@ -37,33 +36,13 @@
         }
       },
       "frameworks": {
-        "net6.0-windows7.0": {
-          "targetAlias": "net6.0-windows",
-          "dependencies": {
-            "OpenTK.GLControl": {
-              "target": "Package",
-              "version": "[3.1.0, )"
-            }
-          },
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            },
-            "Microsoft.WindowsDesktop.App": {
-              "privateAssets": "none"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        "net50": {
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win7-x86": {
+          "#import": []
         }
       }
     }
